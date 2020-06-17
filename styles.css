@@ -1,0 +1,37 @@
+.logo{
+    display: block;
+    text-align: center;
+} 
+.img{
+    vertical-align: middle;
+    margin-top: 30vh;
+}
+p{
+    padding: 0 20px 0 20px;
+}
+.top{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+}
+
+.top1{
+    display:flex;
+    justify-content: space-around;
+}
+
+.top2{
+    display:flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+a:hover{
+    color: black;
+}
+input{
+    width:250px;
+    height:38px;
+}
